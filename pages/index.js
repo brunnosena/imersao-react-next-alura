@@ -40,7 +40,7 @@ export default function Home() {
         </Widget>
         <Footer />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/brunnosena" />
+      <GitHubCorner projectUrl="https://github.com/brunnosena/imersao-react-next-alura" />
     </QuizBackground>
   );
 }
