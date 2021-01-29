@@ -2,10 +2,15 @@ import React from 'react';
 import styled from 'styled-components';
 
 const FooterWrapper = styled.footer`
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
   background-color: #00000070;
   padding: 20px;
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   border-radius: 4px; 
   img {
     width: 58px;
